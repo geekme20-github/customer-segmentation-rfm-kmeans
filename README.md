@@ -5,9 +5,9 @@ The goal is to move away from "one-size-fits-all" marketing toward data-driven, 
  
  ## 💼 Business Problem.
 Treating all customers equally leads to inefficient marketing spend and missed revenue opportunities. This project addresses three core questions:
-**Who are our most loyal customers?**
-**Which customers are at risk of churning?**
-**Which segments have the highest potential for upselling?**
+<br>**Who are our most loyal customers?**
+<br>**Which customers are at risk of churning?**
+<br>**Which segments have the highest potential for upselling?**
 
 ## 🛠️ Methodology & Workflow1. 
 
